@@ -1,0 +1,113 @@
+body{
+    max-width: 1920px;
+}
+
+.page_header{
+    background-color: #E8EFF5;
+    width: 100%;
+    height: 171px;
+}
+
+.logo{
+    position: absolute;
+    left: 15.62%;
+    right: 74.48%;
+    top: 18.71%;
+    bottom: 18.71%;
+    height: 107px;
+    width: 190px;
+    left: 300px;
+    top: 32px;
+    border-radius: 0px;
+}
+
+.catalog_select{
+    position: absolute;
+    background: #FFFFFF;
+    border-radius: 4px;
+    height: 56px;
+    width: 174px;
+    left: 558px;
+    top: 83px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.part1{
+    height: 3px;
+    width: 24px;
+    left: 0px;
+    top: 7px;
+    border-radius: 8px;
+    position: absolute;
+    width: 24px;
+    height: 3px;
+    left: 10%;
+    top: calc(50% - 3px/2 - 3.5px);
+    background: #091F3A;
+    border-radius: 8px;
+}
+
+.part2{
+    height: 3px;
+    width: 24px;
+    left: 0px;
+    top: 7px;
+    border-radius: 8px;
+    position: absolute;
+    width: 24px;
+    height: 3px;
+    left: 10%;
+    top: calc(50%);
+    background: #091F3A;
+    border-radius: 8px;
+    
+}
+
+ul.hr {
+    margin: 0; 
+    padding: 4px;
+    margin-left: 540px; 
+   }
+   ul.hr li {
+    display: inline; 
+    margin-right: 10px; 
+    padding: 3px; 
+}
+
+ul.hr2 {
+
+    margin-top: -28px; 
+    padding: 4px;
+    margin-left: 960px; 
+   }
+   ul.hr2 li {
+    display: inline; 
+    margin-right: 52px; 
+    padding: 3px; 
+}
+
+.search{
+    margin-left: 756px;
+    padding-top: 33px;
+}
+
+.functional{
+    padding-left: 66px;
+    padding-bottom: 15px;
+}
+
+.catalog_bg{
+    padding-left: 260px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
